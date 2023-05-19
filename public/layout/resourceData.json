@@ -1,0 +1,110 @@
+[
+    {
+        "x": 0,
+        "y": 0,
+        "w": 12,
+        "h": 1,
+        "i": 0,
+        "Component": "Time",
+        "IsResource": true,
+        "initW": 4,
+        "initH": 4,
+        "iconName": "训练时长"
+    },
+    {
+      "x": 0,
+      "y": 0,
+      "w": 12,
+      "h": 1,
+      "i": 1,
+      "Component": "Evaluate",
+      "IsResource": true,
+      "initW": 3,
+      "initH": 3,
+      "iconName": "评价指标"
+  },
+  {
+    "x": 0,
+    "y": 0,
+    "w": 12,
+    "h": 1,
+    "i": 2,
+    "Component": "LineChart",
+    "IsResource": true,
+    "initW": 8,
+    "initH": 3,
+    "iconName": "真实值"
+ },
+ {
+  "x": 0,
+  "y": 0,
+  "w": 12,
+  "h": 1,
+  "i": 4,
+  "Component": "Activity",
+  "IsResource": true,
+  "initW": 4,
+  "initH": 4,
+  "iconName": "激活值"
+},
+{
+  "x": 0,
+  "y": 0,
+  "w": 12,
+  "h": 1,
+  "i": 5,
+  "Component": "Cluster",
+  "IsResource": true,
+  "initW": 4,
+  "initH": 4,
+  "iconName": "聚类结果"
+},
+{
+  "x": 0,
+  "y": 0,
+  "w": 12,
+  "h": 1,
+  "i": 6,
+  "Component": "ActValueCover",
+  "IsResource": true,
+  "initW": 4,
+  "initH": 4,
+  "iconName": "覆盖率"
+},
+{
+  "x": 0,
+  "y": 0,
+  "w": 12,
+  "h": 1,
+  "i": 7,
+  "Component": "MainModelStruct",
+  "IsResource": true,
+  "initW": 8,
+  "initH": 4,
+  "iconName": "拓扑结构"
+},
+{
+  "x": 0,
+  "y": 0,
+  "w": 12,
+  "h": 1,
+  "i": 8,
+  "Component": "MainSequence",
+  "IsResource": true,
+  "initW": 4,
+  "initH": 2,
+  "iconName": "时序结构"
+},
+{
+  "x": 0,
+  "y": 0,
+  "w": 12,
+  "h": 1,
+  "i": 9,
+  "Component": "MainBipartedGraph",
+  "IsResource": true,
+  "initW": 8,
+  "initH": 8,
+  "iconName": "聚类关联"
+}
+]
